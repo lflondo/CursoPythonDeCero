@@ -1,6 +1,6 @@
 #Variables
 
-my_var = "una varible string"
+my_var = "una varible str"
 print(my_var)
 
 my_int_variable = 7
