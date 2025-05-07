@@ -20,7 +20,7 @@ print(type([])) #list
 print(type({})) #dict
 print(type(())) #tuple
 
-"""Este es un comentario 
+"""Este es un comentario
 de varias lineas"""
 
 '''
